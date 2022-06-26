@@ -275,9 +275,9 @@ body {
     font-size: 24px;
     color: rgba(112, 0, 112, 1);
     text-align: center;
-    margin-left: -1252px;
+    margin-left: -1150px;
     margin-bottom: -1500px;
-    margin-top: 83px;
+    margin-top: 127px;
     cursor: pointer;
   }
        .copaserv .icons-serverinfo:before {
@@ -312,8 +312,8 @@ body {
    }
    .copaserv .volume-slider {
        position: absolute;
-       bottom: 244px;
-       right:1070px;
+       bottom: 200px; 
+       right: 980px;
        display: auto;
        z-index: 10;
    }
