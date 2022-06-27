@@ -202,14 +202,14 @@ body {
        left:163px;
        top:20px;
    }
-   .copaserv .listeners {
-       max-width: 100px;
-       font-size: 20px;
-           color: rgb #ffffff;
-       position: absolute;
-       top: 159px;
-       right: 1070px;
-   }
+.copaserv .listeners 
+{
+	max-width: 100px; 
+	font-size: 20px; 
+	position: absolute; 
+	top: 160px; 
+	right: 210px; 
+}
    .copaserv .listeners:before {
        content:url();
        font-size: 0px;
@@ -310,13 +310,13 @@ body {
    .copaserv .icons-close:before {
        content:url(https://i.imgur.com/p4e61LP.png);
    }
-   .copaserv .volume-slider {
-       position: absolute;
-       bottom: 200px; 
-       right: 980px;
-       display: auto;
-       z-index: 10;
-   }
+.copaserv .volume-slider 
+{
+	position: absolute;
+	bottom: 140px;
+	right: 200px;
+	z-index: 10; 
+}
    .copaserv input[type=range] {
        width: 100px;
        height: 6px;
